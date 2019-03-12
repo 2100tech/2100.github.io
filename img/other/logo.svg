@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300px" height="300px" viewBox="0 0 300 300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>logo</title>
+    <desc>Created with Sketch.</desc>
+    <g id="logo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="300" height="300"></rect>
+        <rect id="Rectangle" stroke="#979797" fill="#000000" x="150.5" y="0.5" width="149" height="149"></rect>
+        <rect id="Rectangle-Copy" stroke="#979797" fill="#000000" x="0.5" y="150.5" width="149" height="149"></rect>
+        <text id="2" font-family="Impact" font-size="114" font-style="condensed" font-weight="700" fill="#000000">
+            <tspan x="46" y="121">2</tspan>
+        </text>
+        <text id="0" font-family="Impact" font-size="114" font-style="condensed" font-weight="700" fill="#000000">
+            <tspan x="196" y="271">0</tspan>
+        </text>
+        <text id="1" font-family="Impact" font-size="114" font-style="condensed" font-weight="700" fill="#FFFFFF">
+            <tspan x="194" y="121">1</tspan>
+        </text>
+        <text id="0" font-family="Impact" font-size="114" font-style="condensed" font-weight="700" fill="#FFFFFF">
+            <tspan x="44" y="271">0</tspan>
+        </text>
+    </g>
+</svg>
